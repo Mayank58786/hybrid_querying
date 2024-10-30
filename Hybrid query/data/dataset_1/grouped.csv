@@ -1,0 +1,215 @@
+category,key,unique_value_count
+Baseball Caps,Brand Name,13
+Baseball Caps,Department Name,2
+Baseball Caps,Gender,3
+Baseball Caps,Material,4
+Baseball Caps,Model Number,11
+Baseball Caps,Pattern,6
+Baseball Caps,Style,2
+Breakfast Cereal,Brand,59
+Breakfast Cereal,Cereal type,5
+Breakfast Cereal,Container,17
+Breakfast Cereal,Flavor,102
+Breakfast Cereal,Net content,103
+Breakfast Cereal,Pack size,26
+Breakfast Cereal,Specialty,27
+Breakfast Cereal,Sub brand,66
+Coffee,Brand,82
+Coffee,Caffeine content,3
+Coffee,Container type,6
+Coffee,Country,6
+Coffee,Flavor,98
+Coffee,Item form,51
+Coffee,Machine type,10
+Coffee,Net content,101
+Coffee,Pack size,20
+Coffee,Roast type,21
+Coffee,Specialty,16
+Conditioner,Age,2
+Conditioner,Benefit,77
+Conditioner,Brand,114
+Conditioner,Gender,4
+Conditioner,Hair type,24
+Conditioner,Item form,44
+Conditioner,Pack size,10
+Conditioner,Scent,50
+Conditioner,Specialty,33
+Conditioner,Volume,90
+Eyewear,Brand Name,35
+Eyewear,Eyewear Type,1
+Eyewear,Feature,7
+Eyewear,Frame Color,2
+Eyewear,Frame Material,5
+Eyewear,Function,4
+Eyewear,Gender,6
+Eyewear,Lens Height,5
+Eyewear,Lens Width,4
+Eyewear,Lenses Color,2
+Eyewear,Lenses Material,4
+Eyewear,Lenses Optical Attribute,19
+Eyewear,Model Number,24
+Eyewear,Name,5
+Eyewear,Sport Type,3
+Eyewear,Style,2
+Eyewear,Type,4
+Fishing Rod,Action,4
+Fishing Rod,Brand Name,17
+Fishing Rod,Feature,9
+Fishing Rod,Hardness,4
+Fishing Rod,Length,9
+Fishing Rod,Material,6
+Fishing Rod,Model Number,20
+Fishing Rod,Power,5
+Fishing Rod,Section,5
+Guitar,Back / Side Material,9
+Guitar,Body Material,13
+Guitar,Bow Material,5
+Guitar,Brand Name,11
+Guitar,Fingerboard Material,5
+Guitar,Model Number,74
+Guitar,Pickup,3
+Guitar,String Winder,2
+Guitar,Tone Position,5
+Helmet,Applicable People,3
+Helmet,Brand Name,7
+Helmet,Feature,3
+Helmet,Head Circumference,5
+Helmet,Material,2
+Helmet,Model Number,6
+Helmet,Season,2
+Helmet,Sport,4
+Helmet,Style,2
+Laundry Detergent,Brand,69
+Laundry Detergent,Color,4
+Laundry Detergent,Item form,38
+Laundry Detergent,Load size,33
+Laundry Detergent,Net content,102
+Laundry Detergent,Pack size,14
+Laundry Detergent,Scent,49
+Laundry Detergent,Skin type,2
+Laundry Detergent,Specialty,39
+Laundry Detergent,Specific uses,34
+Lure,Action,5
+Lure,Brand Name,19
+Lure,Color,1
+Lure,Item,3
+Lure,Length,30
+Lure,Lure Type,5
+Lure,Material,2
+Lure,Model Number,46
+Lure,Name,2
+Lure,Position,1
+Lure,Quantity,3
+Lure,Size,7
+Lure,Weight,51
+Safety Mask,Age range,19
+Safety Mask,Brand,84
+Safety Mask,Certified grade,8
+Safety Mask,Closure type,25
+Safety Mask,Color,71
+Safety Mask,Country,6
+Safety Mask,Gender,13
+Safety Mask,Layer,29
+Safety Mask,Mask type,63
+Safety Mask,Material,34
+Safety Mask,Net content,60
+Safety Mask,Package type,4
+Safety Mask,Reusability,13
+Safety Mask,Size,26
+Safety Mask,Specialty,8
+Shirts,Brand Name,15
+Shirts,Color,3
+Shirts,Fabric Type,2
+Shirts,Feature,2
+Shirts,Gender,3
+Shirts,Material,2
+Shirts,Model Number,92
+Shirts,Sleeve Length(cm),3
+Shirts,Sport Type,5
+Shirts,Style,4
+Shoes,Age,6
+Shoes,Brand,81
+Shoes,Closure,3
+Shoes,Color,67
+Shoes,Gender,8
+Shoes,Material,9
+Shoes,Model name,123
+Shoes,Shoe type,42
+Shoes,Size,65
+Shoes,Sport,5
+Shoes,Waterproof,1
+Shorts,Brand Name,31
+Shorts,Color,3
+Shorts,Description,4
+Shorts,Fabric Type,1
+Shorts,Feature,4
+Shorts,Gender,3
+Shorts,Material,3
+Shorts,Model Number,43
+Shorts,Pattern,5
+Shorts,Sport Type,4
+Shorts,Style,1
+Stove,Applicable Seasoning Type,3
+Stove,Brand Name,3
+Stove,Fuel,4
+Stove,Material,2
+Stove,Model,15
+Stove,Stove Type,2
+Sunscreen,Age,9
+Sunscreen,Brand,75
+Sunscreen,Color,12
+Sunscreen,Gender,2
+Sunscreen,Item form,51
+Sunscreen,Net content,86
+Sunscreen,Pack size,15
+Sunscreen,Protection level,58
+Sunscreen,Scent,18
+Sunscreen,Skin type,11
+Sunscreen,Specialty,80
+Swimwear,Brand Name,36
+Swimwear,Color,3
+Swimwear,Description,11
+Swimwear,Feature,29
+Swimwear,Gender,6
+Swimwear,Model Number,22
+Swimwear,Pattern,11
+Swimwear,Season,2
+Swimwear,Style,8
+Tea,Brand,85
+Tea,Caffeine content,11
+Tea,Container type,2
+Tea,Country,12
+Tea,Flavor,102
+Tea,Item form,48
+Tea,Machine type,2
+Tea,Net content,90
+Tea,Pack size,21
+Tea,Specialty,34
+Tea,Tea variety,52
+Toothbrush,Age,25
+Toothbrush,Animal,5
+Toothbrush,Brand,92
+Toothbrush,Cap,2
+Toothbrush,Color,60
+Toothbrush,Firmness,16
+Toothbrush,Material,9
+Toothbrush,Operation mode,8
+Toothbrush,Pack size,56
+Toothbrush,Power source,15
+Toothbrush,Size,6
+Toothbrush,Specialty,84
+Vitamin,Administration type,2
+Vitamin,Age,13
+Vitamin,Brand,77
+Vitamin,Caffeine content,1
+Vitamin,Diet,9
+Vitamin,Dosage,37
+Vitamin,Flavor,21
+Vitamin,Gender,8
+Vitamin,Health benefit,38
+Vitamin,Item form,38
+Vitamin,Net content,69
+Vitamin,Pack size,9
+Vitamin,Specialty,8
+Vitamin,Supplement type,102
+Vitamin,Supply size,4
